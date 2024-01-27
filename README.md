@@ -1,2 +1,2 @@
-# .github
+# Three Labs
 About Three Labs
